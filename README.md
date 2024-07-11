@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Raisa Nuzhat</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://www.pinterest.com/pin/hello-dribbble-by-chlo-chassany--717268678168057748/" alt="gif" /> </p>
+<p align="left"> <img src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" alt="gif" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raisanuzhat" alt="raisanuzhat" /></a> </p>
 
