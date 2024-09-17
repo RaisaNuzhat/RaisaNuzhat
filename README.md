@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Header](./bannerimage.jpeg)
 <h1 align="center">Hi 👋, I'm Raisa Nuzhat</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A frontend developer who is always excited and eager to learn and explore!</h3>
 
 <p align="center"> <img src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" alt="gif" /> </p>
 
