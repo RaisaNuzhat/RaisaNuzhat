@@ -19,17 +19,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi There! 👋</h1>
 <h3 align="center"> A developer Eager to Learn, Collaborate & Solve Real-World Problems 🌱</h3>
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" alt="Coding Gif" />
-</p>
+
 
 ---
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=raisanuzhat&theme=flat&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</p>
+
 
 ---
 
