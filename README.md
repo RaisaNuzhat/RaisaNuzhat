@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Header](./git_banner.png)
+![Header](./github_banner.jpg)
 
 <h1 align="center">Hi There! 👋</h1>
 <h3 align="center"> A developer Eager to Learn, Collaborate & Solve Real-World Problems 🌱</h3>
