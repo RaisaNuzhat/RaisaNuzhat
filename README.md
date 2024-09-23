@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Header](./bannerimage.jpeg)
+![Header](./git_banner.png)
 <h1 align="center">Hi 👋, I'm Raisa Nuzhat</h1>
 <h3 align="center">A frontend developer who is always excited and eager to learn and explore!</h3>
 
