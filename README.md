@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![Header](./git_banner.png)
 
 <h1 align="center">Hi There! 👋</h1>
-<h3 align="center">Junior Web Developer 🌱 | Eager to Learn, Collaborate & Solve Real-World Problems</h3>
+<h3 align="center"> A developer Eager to Learn, Collaborate & Solve Real-World Problems 🌱</h3>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" alt="Coding Gif" />
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ### 🛠 Work & Learning:
 - 🔭 **Currently working on**: A large-scale team project
 - 🌱 **Currently learning**: Next.js, TypeScript
-- 💬 **Ask me about**: React, Web Development
+- 💬 **Ask me about**: React
 
 ---
 
