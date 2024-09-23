@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Header](./git_banner.png)
-<h1 align="center">Hi 👋, I'm Raisa Nuzhat</h1>
-<h3 align="center">A frontend developer who is always excited and eager to learn and explore!</h3>
+<h1 align="center">Hi There!👋</h1>
+<h3 align="center"> I am a junior web developer 🌱 Always eager to learn, improve, and collaborate to solve real-world problems</h3>
 
 <p align="center"> <img src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" alt="gif" /> </p>
 
